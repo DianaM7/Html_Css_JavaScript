@@ -6,4 +6,7 @@ div {
     outline: 2px solid blue;
    /* … ??? ...*/
     display: inline-block;
+    font-family: sans-serif;
+    font-size: 3.5rem;
+    text-align: center;
 }
