@@ -1,0 +1,19 @@
+header{
+    background-color: lightpink;
+    border: 1px solid #000000;
+    height: 300px;
+}
+aside{
+    background: lightskyblue;
+    border: 1px solid #000000;
+}
+main{
+    background: olivedrab;
+
+}
+footer{
+    background-color: deeppink;
+    border: 1px solid #000000;
+    color: darkblue;
+    height: 50px;
+}

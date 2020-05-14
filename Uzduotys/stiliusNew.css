@@ -1,0 +1,25 @@
+p{
+    color: darkblue;
+}
+
+label{
+    color: brown;
+}
+input{
+    color: deeppink;
+}
+button{
+    color: darkgreen;
+}
+::-webkit-input-placeholder{
+    color: red}
+
+#fn{
+    color: darkmagenta;
+}
+#sec{
+    color: blueviolet;
+}
+#em{
+    color: deeppink;
+}

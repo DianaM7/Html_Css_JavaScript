@@ -1,0 +1,9 @@
+div {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    padding: 10px;
+    outline: 2px solid blue;
+   /* … ??? ...*/
+    display: inline-block;
+}
